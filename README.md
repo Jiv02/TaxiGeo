@@ -1,39 +1,40 @@
-# 🚖 TaxiGeo - Modern Taxi Landing Page  
+# 🚖 TaxiGeo - Modern Taxi Booking Platform  
 
-A sleek, responsive landing page for taxi services, built with **HTML, CSS, and JavaScript**. Designed to showcase taxi/ride-hailing services with a clean, conversion-focused layout.  
+![TaxiGeo Screenshot](https://drive.google.com/uc?export=view&id=YOUR_DRIVE_FILE_ID)  
+*(Replace with your actual Google Drive file ID)*  
+
+A high-converting landing page for taxi services featuring real-time booking functionality. Built with **HTML5, CSS3, and vanilla JavaScript**.  
 
 **Live Demo:** [https://coruscating-banoffee-c213b4.netlify.app/](https://coruscating-banoffee-c213b4.netlify.app/)  
 
 ---
 
-## ✨ Key Features  
-- **Mobile-First Design**: Perfectly responsive on all devices.  
-- **Dynamic UI Elements**:  
-  - Interactive booking form  
-  - Animated service highlights  
-  - Smooth scroll navigation  
-- **High-Impact Sections**:  
-  - 🚘 Hero section with call-to-action button  
-  - 📱 App showcase (if applicable)  
-  - 💰 Pricing/rate calculator  
-  - 📞 Contact & driver onboarding  
+## 📸 UI Showcase  
+[![Desktop View](https://drive.google.com/drive/u/0/folders/1C1Hf1nrXTW_w80eM4TawVfehyti_vNOH)](https://drive.google.com/drive/u/0/folders/1C1Hf1nrXTW_w80eM4TawVfehyti_vNOH)   
+
+---
+
+## ✨ Conversion Features  
+- **1-Click Booking Widget**  
+- **Live Fare Calculator**  
+- **Driver GPS Tracking UI** (simulated)  
+- **Trust Badges** (Licenses/Payments)  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **HTML5** (Semantic markup)  
-- **CSS3** (Flexbox/Grid animations)  
-- **JavaScript** (Basic interactivity)  
-- **Netlify** (Hosting & form handling)  
+| Component       | Technology Used         |
+|-----------------|-------------------------|
+| Frontend        | HTML5, CSS3, JavaScript |
+| Animations      | CSS Keyframes           |
+| Forms           | Netlify Forms           |
+| Hosting         | Netlify (Edge Network)  |
 
 ---
 
-## 🚀 Quick Deployment  
-1. Fork/clone this repo  
-2. Customize `index.html` with your:  
-   - Brand colors (in `styles.css`)  
-   - Contact form endpoint (Netlify forms)  
-3. Deploy to Netlify in 2 clicks!  
-
-```bash
-git clone https://github.com/your-username/taxigeo.git
+## 🚀 Setup Guide  
+1. **Add your screenshots** to Google Drive  
+2. Right-click → "Get shareable link"  
+3. Replace IDs in Markdown:  
+```markdown
+![Alt Text](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID)
