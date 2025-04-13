@@ -1,8 +1,5 @@
 # 🚖 TaxiGeo - Modern Taxi Booking Platform  
 
-![TaxiGeo Screenshot](https://drive.google.com/uc?export=view&id=YOUR_DRIVE_FILE_ID)  
-*(Replace with your actual Google Drive file ID)*  
-
 A high-converting landing page for taxi services featuring real-time booking functionality. Built with **HTML5, CSS3, and vanilla JavaScript**.  
 
 **Live Demo:** [https://coruscating-banoffee-c213b4.netlify.app/](https://coruscating-banoffee-c213b4.netlify.app/)  
@@ -10,7 +7,7 @@ A high-converting landing page for taxi services featuring real-time booking fun
 ---
 
 ## 📸 UI Showcase  
-[![Desktop View](https://drive.google.com/drive/u/0/folders/1C1Hf1nrXTW_w80eM4TawVfehyti_vNOH)](https://drive.google.com/drive/u/0/folders/1C1Hf1nrXTW_w80eM4TawVfehyti_vNOH)   
+[![Desktop View PDF](https://drive.google.com/drive/u/0/folders/1C1Hf1nrXTW_w80eM4TawVfehyti_vNOH)](https://drive.google.com/drive/u/0/folders/1C1Hf1nrXTW_w80eM4TawVfehyti_vNOH)   
 
 ---
 
